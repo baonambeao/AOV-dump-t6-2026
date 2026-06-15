@@ -1,1 +1,2 @@
-# AOV-dump-t6-2026
+# Discord
+https://discord.gg/uNG8ncEAJx
