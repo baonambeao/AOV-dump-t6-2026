@@ -2221,13 +2221,7 @@ public class EventIDNew // TypeDefIndex: 7840
 	public const int CommonOtherUIStateChange_Show = 57;
 	public const int ON_REPLACE_CAPTAIN = -516614261;
 	public const int HangupAINtf = -31;
-	public const int FST_AUTO_TEST_PLAY_OVER/*System.Exception: Invalid compressed integer format
-   at Il2CppDumper.BinaryReaderExtensions.ReadCompressedUInt32(BinaryReader reader) in C:\projects\il2cppdumper\Il2CppDumper\Extensions\BinaryReaderExtensions.cs:line 80
-   at Il2CppDumper.BinaryReaderExtensions.ReadCompressedInt32(BinaryReader reader) in C:\projects\il2cppdumper\Il2CppDumper\Extensions\BinaryReaderExtensions.cs:line 88
-   at Il2CppDumper.Il2CppExecutor.GetConstantValueFromBlob(Il2CppTypeEnum type, BinaryReader reader, BlobValue& value) in C:\projects\il2cppdumper\Il2CppDumper\Utils\Il2CppExecutor.cs:line 382
-   at Il2CppDumper.Il2CppExecutor.TryGetDefaultValue(Int32 typeIndex, Int32 dataIndex, Object& value) in C:\projects\il2cppdumper\Il2CppDumper\Utils\Il2CppExecutor.cs:line 331
-   at Il2CppDumper.Il2CppDecompiler.Decompile(Config config, String outputDir) in C:\projects\il2cppdumper\Il2CppDumper\Outputs\Il2CppDecompiler.cs:line 169*/
-}
+	public const int FST_AUTO_TEST_PLAY_OVER/
 
 // Namespace: 
 internal class <Module> // TypeDefIndex: 15303
